@@ -1,4 +1,4 @@
-## Screenshots comparison from my test execution
+## Screenshot comparison from my test execution
 
 ###Sauce Labs
 <img src="assets/sauce1.png" width="400" height="400">
@@ -12,7 +12,8 @@
 
 ## SauceLabs Cons
 
-- We need to figure out the supported device and platform configurations from https://wiki.saucelabs.com/display/DOCS/Platform+Configurator#/ which is outdated as of 12/08/2016. For example, iPhone 7 simulators are available but iPhone 7 real device is still not available in Saucelabs.
+- We need to find what the supported device and platform are from https://wiki.saucelabs.com/display/DOCS/Platform+Configurator#/ which is outdated as of 12/08/2016. 
+- Lack of Apple devices. For example, iPhone 7 simulators are available but iPhone 7 real device is still not available in Saucelabs.
 - The reporter UI is not as good as the ones in TestCloud or Amazon Device Farm visually.
 - It is not a deal breaker, but it doesn’t not show a Memory/CPU performance test result that both TestCloud and DeviceFarm generate. 
 
@@ -23,10 +24,14 @@
 - Easy command line executions. 
 
 ## Test Cloud Cons
+- The application we want to test must have the Calabash framework linked in
+- You cannnot do a trial if you have a free email. A company email is required.
 
-## Test Cloud Prod
+## Test Cloud Pros
+- Overall it works well.
 
 ## Amazon Device Farm Cons
+- Needs to enter your credit card even when dong a trial.
 
 ## Amazon Device Farm Pros
-
+- Overall it works well. 
