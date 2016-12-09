@@ -19,19 +19,18 @@
 
 ## SauceLabs Pros
 - You can choose a language to use in tests, and if you know Selenium, it is easy to write tests for.  (If you chose TestCloud/Calabash, you need to use ruby.)
-- You can watch a live video while the test is executed in real time. 
-- Saucelab allows you to choose simulators.  
+- You can watch a live video while a test is executed in real time. 
 - Easy command line executions. 
 
 ## Test Cloud Cons
-- The application we want to test must have the Calabash framework linked in
+- The application we want to test must have the Calabash framework linked in.
 - You cannnot do a trial if you have a free email. A company email is required.
 
 ## Test Cloud Pros
 - Overall it works well.
 
 ## Amazon Device Farm Cons
-- Needs to enter your credit card even when dong a trial.
+- Amazon requires your credit card info when creating an account even when dong a free trial.
 
 ## Amazon Device Farm Pros
 - Overall it works well. 
