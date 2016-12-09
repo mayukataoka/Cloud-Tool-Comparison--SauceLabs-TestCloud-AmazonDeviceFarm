@@ -28,6 +28,7 @@
 
 ## Test Cloud Pros
 - Overall it works well.
+- Easy command line executions.
 
 ## Amazon Device Farm Cons
 - Amazon requires your credit card info when creating an account even when dong a free trial.
