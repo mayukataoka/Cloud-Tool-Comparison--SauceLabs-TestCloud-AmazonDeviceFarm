@@ -35,3 +35,6 @@
 
 ## Amazon Device Farm Pros
 - Overall it works well. 
+
+##TODO
+- I have been evaluating Perfecto also. This is the 4th cloud testing tool. I will add info about Perfecto shortly. 
