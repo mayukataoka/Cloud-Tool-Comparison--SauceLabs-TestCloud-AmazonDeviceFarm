@@ -8,7 +8,7 @@
 <img src="assets/amazon2.png" width="400" height="400">
 ##Test Cloud
 <img src="assets/testcloud1.png" width="400" height="400">
-<img src="assets/testcloud2.png" width="40" height="400">
+<img src="assets/testcloud2.png" width="400" height="400">
 
 ## SauceLabs Cons
 
