@@ -34,6 +34,7 @@
 - Amazon as of As of 12/11/2016, Device Farm only supports Appium version 1.4.16 (1.3.6 for iOS 6-7). This is very old. This means it does not support the XCUItests yet.  https://docs.aws.amazon.com/devicefarm/latest/developerguide/test-types-ios-appium-java-junit.html
 - Amazon requires your credit card info when creating an account even when dong a free trial.
 - Amazon device farm only supports Java and Python for Appium - http://docs.aws.amazon.com/devicefarm/latest/developerguide/test-types-android-appium-java-junit.html
+
 ## Amazon Device Farm Pros
 - Overall it works well. 
 
